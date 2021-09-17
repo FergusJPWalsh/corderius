@@ -1,6 +1,6 @@
 # Corderius _Colloquia Scholastica_ 
 
-Creating a machine-readable text of my Corderius edtion.
+Creating a machine-readable text of my Corderius edition.
 
 ## Source
 
