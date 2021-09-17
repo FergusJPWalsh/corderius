@@ -1,20 +1,10 @@
-# {{ NAME OF TEXT }}
+# Corderius _Colloquia Scholastica_ 
 
-{{ describe what is being done, the process being followed, and who is involved in the work }}
-
-This text is being prepared as part of the [Greek Learner Texts Project](https://greek-learner-texts.org/).
-
-## Contributors
-
-* {{ list of people who have contributed to this repo }}
+Creating a machine-readable text of my Corderius edtion.
 
 ## Source
 
-{{ indicate original source(s) of text: scans or existing transcriptions }}
-
-## Progress
-
-{{ indicate progress, or remove entire section if done }}
+http://www.fergusjpwalsh.co.uk/wp-content/uploads/2021/06/Corderius-Colloquia-Scholastica-Draft-June-2021.pdf
 
 ## License
 
